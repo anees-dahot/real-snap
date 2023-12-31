@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269066479582",
+    "project_id": "reel-snap",
+    "storage_bucket": "reel-snap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269066479582:android:153dc9af42b6a675f2df4f",
+        "android_client_info": {
+          "package_name": "com.onecube.real_snap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-AEpKmxM-27LOK-sIEUej03x7Te4FnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
